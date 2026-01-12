@@ -1,0 +1,77 @@
+Data Structures
+4 Assignments
+Assignment 1: Complexity analysis arrays
+Submission Date: October 5, 2022
+Weighting of Assignment 1: 10%
+Assignment 2: linked lists
+Submission Date: October 21, 2022
+Weighting of Assignment 2: 10%
+Assignment 3: Dictionary
+Submission Date: November 10, 2022
+Weighting of Assignment 3: 10%
+Assignment 4: Binary tree
+Submission Date: December 6, 2022
+Weighting of Assignment 4: 10%
+Midterm Exam: November 19, 2022
+Weighting of Midterm Exam: 10%
+Final Exam: December 11, 2022
+Weighting of Final Exam: 40%
+
+Cryptography
+3 Assignments
+Assignment 1: Theoretical Foundations of Cryptography
+Submission Date: October 11, 2022
+Weighting of Assignment 1: 5%
+Assignment 2: Cryptographic Protocols
+Submission Date: November 15, 2022
+Weighting of Assignment 2: 5%
+Assignment 3: Cryptographic Applications
+Submission Date: December 13, 2022
+Weighting of Assignment 3: 10%
+Midterm Exam: November 10, 2022
+Weighting of Midterm Exam: 30%
+Final Exam: January 17, 2023
+Weighting of Final Exam: 50%
+
+Numerical Analysis
+2 Assignments
+Assignment 1: Newton’s Method
+Submission Date: October 11, 2022
+Weighting of Assignment 1: 10%
+Assignment 2: Numerical Integration
+Submission Date: November 15, 2022
+Weighting of Assignment 2: 10%
+Midterm Exam: November 10, 2022
+Weighting of Midterm Exam: 30%
+Final Exam: January 17, 2023
+Weighting of Final Exam: 50%
+
+Avanced networking
+2 Assignments
+Assignment 1: EIGRP
+Submission Date: October 15, 2022
+Weighting of Assignment 1: 15%
+Assignment 2: OSPF
+Submission Date: November 20, 2022
+Weighting of Assignment 2: 5%
+Midterm Exam: November 18, 2022
+Weighting of Midterm Exam: 20%
+Final Exam: January 24, 2023
+Weighting of Final Exam: 60%
+
+Network security
+3 Assignments
+Assignment 1: NTP
+Submission Date: September 10, 2022
+Weighting of Assignment 1: 5%
+Assignment 2: VPN
+Submission Date: November 15, 2022
+Weighting of Assignment 2: 5%
+Assignment 3: SSH
+Submission Date: December 24, 2022
+Weighting of Assignment 3: 10%
+Midterm Exam: November 19, 2022
+Weighting of Midterm Exam: 30%
+Final Exam: January 22, 2023
+Weighting of Final Exam: 50%
+
