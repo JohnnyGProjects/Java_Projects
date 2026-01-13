@@ -1,16 +1,16 @@
-Java Projects Repository
-Overview
+☕ Java Projects Repository
+📌 Overview
 
 This repository contains a collection of Java projects developed as part of university coursework. The projects focus on core programming concepts, data structures, algorithms, file I/O, and graphical user interfaces using both Swing and JavaFX.
 
 Each project is self-contained and demonstrates problem-solving, object-oriented design, and custom data structure implementation.
 
-Projects Included
-1. 20 Questions Game (Swing)
+📂 Projects Included
+🎯 1. 20 Questions Game (Swing)
 
-An interactive 20 Questions-style guessing game using a binary decision tree.
+An interactive 20 Questions-style guessing game powered by a binary decision tree.
 
-Key Features
+✨ Key Features
 
 GUI built with JOptionPane
 
@@ -18,11 +18,11 @@ Binary tree of yes/no questions
 
 Tree expands dynamically when the program guesses incorrectly
 
-Ability to save learned knowledge to a file
+Option to save learned knowledge to a file
 
-Recursive tree traversal for saving/loading game data
+Recursive tree traversal for saving/loading data
 
-Concepts Used
+🧠 Concepts Used
 
 Binary trees
 
@@ -30,25 +30,25 @@ Recursion
 
 File I/O
 
-Object-oriented design
+Object-oriented programming
 
 Swing GUI
 
-2. Course Contents Manager (JavaFX)
+📘 2. Course Contents Manager (JavaFX)
 
 A JavaFX desktop application that displays course information and prioritizes assignments.
 
-Key Features
+✨ Key Features
 
-Displays courses, assignments, midterms, and finals
+View courses, assignments, midterms, and finals
 
 Assignments sorted by due date and weight
 
 Data loaded from a structured text file
 
-Simple GUI with buttons and text area output
+Simple, clean GUI with buttons and text output
 
-Custom Data Structures
+🧩 Custom Data Structures
 
 Linked List
 
@@ -58,7 +58,7 @@ Priority Queue
 
 All data structures are implemented from scratch (no Java Collections Framework).
 
-Concepts Used
+🧠 Concepts Used
 
 JavaFX
 
@@ -68,13 +68,13 @@ File parsing
 
 Comparable interface
 
-Modular design
+Modular application design
 
-3. Data Structures Coursework
+🧮 3. Data Structures Coursework
 
-Projects and assignments covering:
+A set of projects and assignments covering:
 
-Arrays and complexity analysis
+Arrays & complexity analysis
 
 Linked lists
 
@@ -82,23 +82,23 @@ Dictionaries
 
 Binary trees
 
-Includes practical implementations tied to real-world examples and applications.
+Each assignment emphasizes hands-on implementation and algorithmic thinking.
 
-4. Supporting Utilities
+🛠️ 4. Supporting Utilities
 
-Reusable components used across projects:
+Reusable components used across multiple projects:
 
-Generic nodes
+Generic node classes
 
-Key–value pairs
+Key–value pair structures
 
 Queue nodes
 
 Enums for assignment types
 
-These support clean separation of logic and extensibility.
+These utilities help maintain clean architecture and code reuse.
 
-Technologies Used
+⚙️ Technologies Used
 
 Java 11+
 
@@ -112,15 +112,15 @@ Object-Oriented Programming
 
 Custom data structure implementations
 
-How to Run
+▶️ How to Run
 
 Compile and run individual projects from their respective main classes
 
-JavaFX project requires JavaFX properly configured
+JavaFX project requires JavaFX to be properly configured
 
 Input files must remain in expected paths (e.g., data/contents.txt)
 
-Learning Outcomes
+🎓 Learning Outcomes
 
 Strong understanding of data structures and algorithms
 
@@ -132,6 +132,6 @@ Clean separation of concerns
 
 Writing maintainable, modular Java code
 
-Author
+👨‍💻 Author
 
 Johnny (Yoseph Gebre)
